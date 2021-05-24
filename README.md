@@ -1,4 +1,4 @@
 Friends
 =======
 
-simple social framework with php
+new sample testing with firebasse
